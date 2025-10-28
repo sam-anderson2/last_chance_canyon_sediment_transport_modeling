@@ -1,0 +1,5 @@
+#Time [s]	Precipitation [mm/hr]	
+0		33.8
+3600	33.8	
+3601	0	
+100000	0	

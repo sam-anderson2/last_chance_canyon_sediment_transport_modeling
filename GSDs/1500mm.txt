@@ -1,0 +1,4 @@
+#grain_size_mm	site_0	site_1	site_2
+1500	100	100	100
+1499	0	0	0
+
